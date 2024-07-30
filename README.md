@@ -1,1 +1,11 @@
 # Module_5_Challenge
+-- Module 5 project demonstrated the use of Matplotlib to visualize data and analyze the effectiveness of the Capomulin treatment regimen.
+-- The study involved 249 mice with SCC tumors treated with various drug regimens, observed over 45 days.
+-- As a senior data analyst, my task was to generate tables and figures for the technical report and summarize the study results.
+-- The analysis included merging datasets, cleaning data, generating summary statistics, and creating various plots.
+-- Bar charts and pie charts were created to visualize the distribution of data across different treatment regimens and genders.
+-- Quartiles were calculated, outliers identified, and box plots generated for the final tumor volume of Capomulin, Ramicane, Infubinol, and Ceftamin treatment groups.
+-- A line plot was generated to track tumor volume changes over time for a specific mouse (1509) treated with Capomulin.
+-- A scatter plot was created to explore the relationship between mouse weight and average tumor volume under the Capomulin regimen.
+-- Correlation and regression analyses were performed to quantify the relationship between weight and tumor volume.
+-- All visualizations and statistical analyses helped understand the effectiveness of Capomulin and factors influencing tumor growth.
